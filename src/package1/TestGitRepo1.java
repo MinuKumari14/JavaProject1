@@ -4,6 +4,7 @@ public class TestGitRepo1 {
 
 	public static void main(String[] args) {
 		System.out.println("Project uploaded in Git repository");
+		System.out.println("Test File created");
 	}
 
 }
